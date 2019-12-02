@@ -4,7 +4,6 @@
 Java 11
 Gradle
 IntelliJ - idea
-Git (porém não tive tempo de mandar para um repositório no gitHub)
 ```
 
 # O quanto foi feito:
@@ -17,7 +16,7 @@ Coloca o arquivo de saída em HOMEPATH/data/out.
 • Quantidade de clientes no arquivo de entrada 
 • Quantidade de vendedores no arquivo de entrada 
 ```
-```PS: Talvez tenha que executar duas vezes a main, pois para mim ele acusava um erro e necessitava rodar novamente :)```
+```PS: Talvez tenha que executar duas vezes a main para o projeto rodar :)```
 
 # O que foi pensado a nível técnico:
 
